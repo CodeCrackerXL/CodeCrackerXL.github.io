@@ -1,19 +1,24 @@
-## Welcome to GitHub Pages
+## Welcome to CodeCrackerXL's GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/CodeCrackerXL/CodeCrackerXL.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+Up above is the original text from github hint. To separate, this is the sentence wrote by the account holder, which is me.
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+high light here?
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+Syntax highlighted code block
+or high light here?
+
+# My Header 1
+## My Header 2
+### My Header 3
 
 - Bulleted
 - List
